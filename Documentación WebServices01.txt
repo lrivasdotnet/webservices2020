@@ -1,0 +1,14 @@
+URL WebServices:	https://www.lrivas.net/webservices01.php
+Parámetros:
+	accion, valor1,valor2
+Métodos de Envío soportado:
+	POST y GET
+
+Métodos
+	accion/ 
+	--sumar: requiere 2 parámetros valor1 y valor2 son números cualquiera
+	--restar: requiere 2 parámetros valor1 y valor2 son números cualquiera
+	--multiplicar: requiere 2 parámetros valor1 y valor2 son números cualquiera
+	--dividir: requiere 2 parámetros valor1 y valor2 son números cualquiera
+	--dec2bin: requiere 1 parámetro valor1 el cual es un número decimal.
+	--bin2dec: requiere 1 parámetro valor1 el cual es un número binario.
